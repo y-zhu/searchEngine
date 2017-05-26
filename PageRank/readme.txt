@@ -1,0 +1,2 @@
+将抓取的net.tsinghua.edu.cn文件夹放在此目录下，运行getGraph.py可得到head:node1,node2……格式的网页链接关系graph.txt（文件大于100M未上传），运行getPageName.py得到网页和其名称对应关系pageName.txt（未上传），运行PageRank.py得到网页的PageRank值，最后结果为PageRankResult.txt
+注：getGraph.py和getPageName.py中有 绝对路径，运行时需要修改
